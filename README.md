@@ -18,7 +18,7 @@ My journey blends **Mathematical Science**, **Data Analytics**, and **Entreprene
 - ✨ Entrepreneur at heart → scaling a **Hair & Beauty brand**  
 - 🌱 Growing in **Python, SQL, R, MATLAB, IBM Cognos, and Excel**  
 - 🌍 Global mindset: open to **Canada, Europe, and the US**  
-- 🗣️ Learning **French & German** to connect worldwide  
+- 🗣️ Learning **French ** to connect worldwide  
 
 ---
 
