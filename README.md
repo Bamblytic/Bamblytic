@@ -1,11 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb9,100:6a00f4&height=200&section=header&text=Bam%20Bam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:ff7eb9&height=200&section=header&text=👋%20Hi,%20I'm%20Akegbejo%20Ayobami%20Isioma&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-# 👋 Hey there, I'm Bam Bam  
-
-💡 **Data Science Enthusiast | Entrepreneur | Future FinTech Innovator**  
+# 💡 Data Science Enthusiast | Entrepreneur | Future FinTech Innovator  
 
 I’m passionate about turning **data into insights** and **ideas into businesses**.  
 My journey blends **Mathematical Science**, **Data Analytics**, and **Entrepreneurship**, with a vision to work at the intersection of **Finance + Tech + Creativity**.  
@@ -17,8 +15,8 @@ My journey blends **Mathematical Science**, **Data Analytics**, and **Entreprene
 - 🎓 Graduate in **Mathematical Sciences**  
 - 📚 Preparing for a **Master’s in Data Science**  
 - 💼 Career vision: **Risk Management, Algorithmic Trading & FinTech Consulting**  
-- ✨ Entrepreneur at heart → building and scaling a **Hair & Beauty brand**  
-- 🌱 Currently leveling up in **Python, SQL, R, IBM Cognos, and Excel**  
+- ✨ Entrepreneur at heart → scaling a **Hair & Beauty brand**  
+- 🌱 Growing in **Python, SQL, R, MATLAB, IBM Cognos, and Excel**  
 - 🌍 Global mindset: open to **Canada, Europe, and the US**  
 - 🗣️ Learning **French & German** to connect worldwide  
 
@@ -27,9 +25,10 @@ My journey blends **Mathematical Science**, **Data Analytics**, and **Entreprene
 ## 🚀 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,sqlite,mysql,git,github,html,css" height="45"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM%20Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,matlab" height="45"/>  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/IBM%20Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Mathematics-000000?style=for-the-badge&logo=pinboard&logoColor=white"/>  
 </p>
 
 ---
@@ -38,8 +37,9 @@ My journey blends **Mathematical Science**, **Data Analytics**, and **Entreprene
 
 - 📊 Interactive **dashboards & reports** with Excel & Cognos  
 - 🧮 **Statistical modeling & data cleaning** in R & Python  
-- 🔎 **SQL practice projects** (complex queries, joins, optimization)  
-- 💡 Drafting a **FinTech x Hair Business innovation idea**  
+- 🔎 **SQL practice projects** (queries, joins, optimization)  
+- 📐 Using **MATLAB for mathematical modeling & computation**  
+- 💡 Exploring a **FinTech x Hair Business innovation idea**  
 - 🎥 Launching a **YouTube series on Excel tips** (coming soon 👀)  
 
 ---
@@ -47,8 +47,8 @@ My journey blends **Mathematical Science**, **Data Analytics**, and **Entreprene
 ## 📈 GitHub Highlights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bamblytic&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bamblytic&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -64,14 +64,16 @@ My journey blends **Mathematical Science**, **Data Analytics**, and **Entreprene
 ## 📬 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOURMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/bam_hairs"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:akegbejoayobami@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:ff7eb9&height=120&section=footer"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Data%20tells%20stories.%20I%20make%20sure%20they%20are%20heard." />
 </p>
 
-⭐️ *“Data tells stories. I make sure they are heard.”*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb9,100:6a00f4&height=120&section=footer"/>
+</p>
