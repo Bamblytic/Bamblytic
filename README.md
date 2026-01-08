@@ -3,29 +3,34 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00f4,100:ff7eb9&height=200&section=header&text=👋%20Hi,%20I'm%20Akegbejo%20Ayobami%20Isioma&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
-# 💡 Data Science Enthusiast | Entrepreneur | Future FinTech Innovator  
+# 💡 AI & Data Science Enthusiast | Entrepreneur | Future FinTech Innovator  
 
-I’m passionate about turning **data into insights** and **ideas into businesses**.  
-My journey blends **Mathematical Science**, **Data Analytics**, and **Entrepreneurship**, with a vision to work at the intersection of **Finance + Tech + Creativity**.  
+I’m passionate about turning **data into intelligence**, building **AI‑driven solutions**, and scaling **real businesses**.  
+My journey blends **Mathematical Sciences**, **Machine Learning**, and **Entrepreneurship**, with a vision to work at the intersection of **AI + Finance + Product**.
 
 ---
 
 ## 🌟 About Me  
 
 - 🎓 Graduate in **Mathematical Sciences**  
-- 📚 Preparing for a **Master’s in Data Science**  
-- 💼 Career vision: **Risk Management, Algorithmic Trading & FinTech Consulting**  
-- ✨ Entrepreneur at heart → scaling a **Hair & Beauty brand**  
-- 🌱 Growing in **Python, SQL, R, MATLAB, IBM Cognos, and Excel**  
+- 🤖 Building skills in **Artificial Intelligence, Machine Learning & MLOps**  
+- 📚 Preparing for a **Master’s / advanced study in Data Science & AI**  
+- 💼 Career vision: **Risk Management, Algorithmic Trading, AI‑driven FinTech & Product Analytics**  
+- ✨ Entrepreneur at heart → scaling a **Hair & Beauty brand** and exploring **FinTech x Hair** ideas  
+- 🌱 Growing in **Python (pandas, NumPy, scikit‑learn), SQL, R, MATLAB, IBM Cognos, and Excel**  
 - 🌍 Global mindset: open to **Canada, Europe, and the US**  
-- 🗣️ Learning **French ** to connect worldwide  
+- 🗣️ Learning **French** to connect and work across markets  
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Tech & AI Stack  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,matlab" height="45"/>  
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
   <img src="https://img.shields.io/badge/IBM%20Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Mathematics-000000?style=for-the-badge&logo=pinboard&logoColor=white"/>  
@@ -33,14 +38,28 @@ My journey blends **Mathematical Science**, **Data Analytics**, and **Entreprene
 
 ---
 
-## 📂 Projects & Learning  
+## 📂 Projects & Learning (AI / Data)
 
-- 📊 Interactive **dashboards & reports** with Excel & Cognos  
-- 🧮 **Statistical modeling & data cleaning** in R & Python  
-- 🔎 **SQL practice projects** (queries, joins, optimization)  
-- 📐 Using **MATLAB for mathematical modeling & computation**  
-- 💡 Exploring a **FinTech x Hair Business innovation idea**  
-- 🎥 Launching a **YouTube series on Excel tips** (coming soon 👀)  
+> Repos coming online: end‑to‑end workflows from raw data → wrangling → EDA → ML models.
+
+- 🚗 **Automobile Price Prediction**  
+  - Data wrangling, feature engineering, and EDA on a car dataset  
+  - Linear & polynomial regression with **scikit‑learn Pipelines** to model price  
+
+- 💻 **Laptop Price Modeling**  
+  - Exploratory analysis on laptop specs (GPU, CPU, RAM, SSD, screen)  
+  - Regression models to understand how hardware features drive price  
+
+- 📊 **Analytics & BI**  
+  - Interactive dashboards and reports in **Excel & IBM Cognos**  
+  - KPI tracking and basic forecasting for business decision‑making  
+
+- 🧮 **Mathematical & Statistical Modelling**  
+  - R and MATLAB for **regression, hypothesis testing, and numerical methods**  
+  - Translating theory (calculus, linear algebra, probability) into code  
+
+- 💡 **FinTech x Hair Business (Concept)**  
+  - Exploring how **AI & data** can optimize pricing, inventory, and customer experience for an e‑commerce hair/beauty brand  
 
 ---
 
@@ -51,29 +70,11 @@ My journey blends **Mathematical Science**, **Data Analytics**, and **Entreprene
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bamblytic&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+> Focus: clean, well‑documented **Jupyter notebooks** showcasing data cleaning, EDA, and ML models in Python.
+
 ---
 
 ## 🎨 Beyond Tech  
 
-- 🌍 Adventurer at heart, curious about cultures & languages  
-- 💫 Believe in blending **tech + creativity + business**  
-- ✨ Goal: Build a **global life of impact, peace, and innovation**  
+- 🌍 Adventurer at heart, curious about cultures & langu
 
----
-
-## 📬 Connect With Me  
-
-<p align="center">
-  <a href="https://instagram.com/bam_hairs"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:akegbejoayobami@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Data%20tells%20stories.%20I%20make%20sure%20they%20are%20heard." />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb9,100:6a00f4&height=120&section=footer"/>
-</p>
